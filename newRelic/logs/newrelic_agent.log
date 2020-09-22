@@ -1,0 +1,52 @@
+2020-09-22T22:07:15,494+0530 [16592 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\anvishwa\Work\mySpace\GitProject\cannonbolt\newRelic\logs\newrelic_agent.log
+2020-09-22T22:07:15,494+0530 [16592 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_261
+2020-09-22T22:07:15,495+0530 [16592 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.261-b12
+2020-09-22T22:07:15,495+0530 [16592 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2020-09-22T22:07:15,495+0530 [16592 1] com.newrelic INFO: Agent Host: DESKTOP-9LLPVDG IP: 192.168.0.101
+2020-09-22T22:07:15,496+0530 [16592 1] com.newrelic INFO: New Relic Agent v6.0.0 is initializing...
+2020-09-22T22:07:16,790+0530 [16592 12] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2020-09-22T22:07:22,408+0530 [16592 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2020-09-22T22:07:25,423+0530 [16592 1] com.newrelic INFO: Setting audit_mode to false
+2020-09-22T22:07:25,423+0530 [16592 1] com.newrelic INFO: Setting protocol to "https"
+2020-09-22T22:07:26,342+0530 [16592 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\anvishwa\Work\mySpace\GitProject\cannonbolt\newRelic\.\newrelic.yml
+2020-09-22T22:07:26,398+0530 [16592 1] com.newrelic INFO: New Relic Agent v6.0.0 has started
+2020-09-22T22:07:26,398+0530 [16592 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@5f4da5c3
+2020-09-22T22:07:26,987+0530 [16592 1] com.newrelic INFO: JMX LinkingMetadata started, registering MBean: com.newrelic.jfr:type=LinkingMetadata
+2020-09-22T22:07:26,997+0530 [16592 1] com.newrelic INFO: JMX LinkingMetadata bean registered
+2020-09-22T22:07:26,997+0530 [16592 1] com.newrelic INFO: Premain startup complete in 13,559ms
+2020-09-22T22:07:34,279+0530 [16592 41] com.newrelic INFO: Server Info: Apache Tomcat/9.0.38
+2020-09-22T22:07:36,519+0530 [16592 31] com.newrelic INFO: Host name is DESKTOP-9LLPVDG, display host DESKTOP-9LLPVDG for application CannonBolt
+2020-09-22T22:07:37,862+0530 [16592 31] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2020-09-22T22:07:38,844+0530 [16592 31] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2020-09-22T22:07:38,844+0530 [16592 31] com.newrelic INFO: Agent run id: Bb3vvLGCieWnACv9MRXuo_ZfaiikAAIBAAAnIQEAAEDQAgQV7qP0AwAFNi4wLjAAD0RFU0tUT1AtOUxMUFZERwAKQ2Fubm9uQm9sdA
+2020-09-22T22:07:38,847+0530 [16592 31] com.newrelic INFO: Agent 16592@DESKTOP-9LLPVDG/CannonBolt connected to collector.newrelic.com:443
+2020-09-22T22:07:38,847+0530 [16592 31] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2882865/applications/367961076
+2020-09-22T22:07:38,847+0530 [16592 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2020-09-22T22:07:38,861+0530 [16592 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2020-09-22T22:07:40,159+0530 [16592 31] com.newrelic INFO: Real user monitoring is enabled for application CannonBolt. Auto instrumentation is enabled.
+2020-09-22T22:21:05,202+0530 [13296 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\anvishwa\Work\mySpace\GitProject\cannonbolt\newRelic\logs\newrelic_agent.log
+2020-09-22T22:21:05,211+0530 [13296 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_261
+2020-09-22T22:21:05,212+0530 [13296 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.261-b12
+2020-09-22T22:21:05,213+0530 [13296 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2020-09-22T22:21:05,213+0530 [13296 1] com.newrelic INFO: Agent Host: DESKTOP-9LLPVDG IP: 192.168.0.101
+2020-09-22T22:21:05,214+0530 [13296 1] com.newrelic INFO: New Relic Agent v6.0.0 is initializing...
+2020-09-22T22:21:08,566+0530 [13296 12] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2020-09-22T22:21:18,145+0530 [13296 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2020-09-22T22:21:22,827+0530 [13296 1] com.newrelic INFO: Setting audit_mode to false
+2020-09-22T22:21:22,827+0530 [13296 1] com.newrelic INFO: Setting protocol to "https"
+2020-09-22T22:21:24,021+0530 [13296 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\anvishwa\Work\mySpace\GitProject\cannonbolt\newRelic\.\newrelic.yml
+2020-09-22T22:21:24,063+0530 [13296 1] com.newrelic INFO: New Relic Agent v6.0.0 has started
+2020-09-22T22:21:24,063+0530 [13296 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@5f4da5c3
+2020-09-22T22:21:24,657+0530 [13296 1] com.newrelic INFO: JMX LinkingMetadata started, registering MBean: com.newrelic.jfr:type=LinkingMetadata
+2020-09-22T22:21:24,665+0530 [13296 1] com.newrelic INFO: JMX LinkingMetadata bean registered
+2020-09-22T22:21:24,665+0530 [13296 1] com.newrelic INFO: Premain startup complete in 23,268ms
+2020-09-22T22:21:33,503+0530 [13296 42] com.newrelic INFO: Server Info: Apache Tomcat/9.0.38
+2020-09-22T22:21:39,071+0530 [13296 31] com.newrelic INFO: Host name is DESKTOP-9LLPVDG, display host DESKTOP-9LLPVDG for application CannonBolt
+2020-09-22T22:21:40,378+0530 [13296 31] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2020-09-22T22:21:41,274+0530 [13296 31] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2020-09-22T22:21:41,274+0530 [13296 31] com.newrelic INFO: Agent run id: BaUeMePB7CXuACv9MRXuo_ZfaivsAAIBAAAnIQEAADPwAgQV7qP0AwAFNi4wLjAAD0RFU0tUT1AtOUxMUFZERwAKQ2Fubm9uQm9sdA
+2020-09-22T22:21:41,282+0530 [13296 31] com.newrelic INFO: Agent 13296@DESKTOP-9LLPVDG/CannonBolt connected to collector.newrelic.com:443
+2020-09-22T22:21:41,282+0530 [13296 31] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2882865/applications/367961076
+2020-09-22T22:21:41,282+0530 [13296 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2020-09-22T22:21:41,294+0530 [13296 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2020-09-22T22:21:42,699+0530 [13296 31] com.newrelic INFO: Real user monitoring is enabled for application CannonBolt. Auto instrumentation is enabled.
