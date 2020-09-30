@@ -1,4 +1,4 @@
-package com.example.cadmus.cannonbolt;
+package com.example.cadmus.cannonBolt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

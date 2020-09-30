@@ -1,4 +1,4 @@
-package com.example.cadmus.cannonbolt.Controller;
+package com.example.cadmus.cannonBolt.Controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

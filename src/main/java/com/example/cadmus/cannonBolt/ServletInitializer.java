@@ -1,4 +1,4 @@
-package com.example.cadmus.cannonbolt;
+package com.example.cadmus.cannonBolt;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
